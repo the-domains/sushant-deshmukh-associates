@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sushant Deshmukh & Associates]]></title>
+        <description><![CDATA[Sushant Deshmukh & Associates]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Aug 2016 08:37:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Happy Happy Joy Joy, Amsterdam, Netherlands]]></title>
+            <description><![CDATA[<article><h1>Happy Happy Joy Joy, Amsterdam, Netherlands</h1><p>Things just got a little spicier in the thriving Amsterdam enclave of Old West. Chef Julius Jaspers has teamed up with design studio Concrete to create a bold and brash Asian street food joint dubbed Happy Happy Joy Joy, and it's as loose and playful as its name implies.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/60a826db0cfed461ded0078091f5410155392471.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/travel/netherlands/amsterdam/restaurants/happy-happy-joy-joy</link>
+            <guid isPermaLink="false">121005d4-68da-4069-b82d-912d0a4e3293</guid>
+            <pubDate>Fri, 19 Aug 2016 08:37:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
